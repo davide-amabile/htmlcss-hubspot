@@ -22,7 +22,7 @@ body {
 .head nav {
   width: 50%;
   float: left;
-  margin-top: 25px;
+  margin: 25px 0;
 }
 
 .head li {
@@ -58,4 +58,34 @@ body {
   color: #ff8c00;
   border: 1px solid #ff8c00;
 
+}
+
+/* seconda nav */
+
+.nav-logo {
+  width: 50%;
+  float: left;
+}
+
+.info-nav {
+  width: 50%;
+  float:left;
+  text-align: right;
+}
+
+.info-nav {
+  width: 50%
+}
+
+.info-nav li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.info-nav a {
+  text-decoration: none;
+}
+.info-nav i {
+  padding: 0 2px;
 }
