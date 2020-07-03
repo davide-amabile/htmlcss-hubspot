@@ -10,6 +10,10 @@
   clear: both;
 }
 
+body {
+ font-family: 'Roboto', sans-serif;
+}
+
 .container {
   width: 80%;
   margin:auto;
@@ -18,18 +22,36 @@
 .head nav {
   width: 50%;
   float: left;
+  margin-top: 25px;
 }
 
 .head li {
   display: inline-block;
   padding: 0 25px;
-
 }
 
-.list-top {
+.head a {
+  text-decoration: none;
   text-transform: capitalize;
 }
 
 .list-bottom {
   text-align: right;
+}
+
+/* css bottoni */
+
+.btn {
+  background-color: #ff8c00;
+  color: #ffffff;
+  border: 1px solid transparent;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-first {
+  background-color: transparent;
+  color: #ff8c00;
+  border: 1px solid #ff8c00;
+
 }
