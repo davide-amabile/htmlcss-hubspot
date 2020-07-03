@@ -39,6 +39,10 @@ body {
   text-align: right;
 }
 
+.list-top {
+  text-align: left;
+}
+
 .list-top i {
   padding: 0 15px;
 }
@@ -61,6 +65,10 @@ body {
 }
 
 /* seconda nav */
+
+.nav-bottom {
+  margin-top: 25px;
+}
 
 .nav-logo {
   width: 50%;
