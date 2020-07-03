@@ -39,6 +39,10 @@ body {
   text-align: right;
 }
 
+.list-top i {
+  padding: 0 15px;
+}
+
 /* css bottoni */
 
 .btn {
