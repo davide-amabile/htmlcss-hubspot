@@ -140,7 +140,6 @@ h1 {
 
 .first-body {
   background-color: #f4f9fd;
-  height: 1000px
 
 }
 
@@ -209,4 +208,24 @@ h1 {
  color: 	#ff8c00;
  padding-left: 0px;
  padding-right: 15px;
+}
+/*/seconda sezione corpo centrale*/
+/* terza sezione corpo centrale */
+
+.boxes {
+  height: 500px;
+}
+
+.box {
+  width: 33%;
+  float: left;
+  background-color: 	#ffffff;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.pic {
+  width: 100px;
+  height: 100px;
 }
