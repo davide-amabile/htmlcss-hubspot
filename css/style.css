@@ -289,17 +289,17 @@ margin: 50px 10px;
 /* /terza sezione corpo centrale */
 /* quarta sezione corpo centrale */
 .second-section {
-  height: 600px;
   background-color: #00B7AC;
   text-align: center;
   color: 	#ffffff;
+  padding: 100px 0;
 }
 
 
 /* titolo sezione */
 .blue-section h2 {
   font-size: 35px;
-  padding-top: 60px;
+  /* padding: 60px 0; */
 }
 /* paragrafo sezione */
 .blue-section p {
@@ -345,3 +345,43 @@ margin: 50px 10px;
   border-left: 1px solid #ffffff;
   border-right: 1px solid #ffffff;
 }
+/* /prima riga */
+/* seconda riga */
+
+.bottom-row ul{
+  width: 25%;
+  float: left;
+}
+
+.bottom-row li {
+  list-style: none;
+  padding: 20px 0;
+}
+
+.bottom-row .icon {
+  font-size: 30px;
+}
+
+.bottom-row  .number {
+  font-size: 45px;
+}
+
+.bottom-row  .plus {
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+.bottom-row  .text {
+  font-size: 10px;
+}
+
+/* bordi box destra */
+.bottom-row  .first-box {
+  border-right: 1px solid #ffffff;
+}
+
+.bottom-row .third-box {
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+}
+/*/ quarta sezione corpo centrale */
