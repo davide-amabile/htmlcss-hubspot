@@ -221,13 +221,12 @@ h1 {
 .box {
   width: 33%;
   float: left;
-  background-color: red;  
-  /* background-color: 	#ffffff; */
-  /* height: 400px; */
+  background-color: 	#ffffff;
   border-radius: 10px;
-  margin-top: 40px;
+  margin: 40px 0;
  text-align: center;
  padding: 30px 30px;
+ border: 1px solid #EDF3F7;
 }
 
 /* immagine */
@@ -258,3 +257,22 @@ margin: 50px 10px;
  .btn-learn {
    padding: 35px 0;
  }
+
+ /* misure box */
+
+.boxes .middle {
+   width: 29%;
+   margin-left: 2%;
+   margin-right: 2%;
+ }
+
+ .boxes .left {
+  width: 29%;
+  margin-right: 4%;
+ }
+
+ .boxes .right {
+   width: 29%;
+   margin-left: 4%;
+ }
+/* /terza sezione corpo centrale */
