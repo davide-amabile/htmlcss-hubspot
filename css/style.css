@@ -97,3 +97,38 @@ body {
 .info-nav i {
   padding: 0 2px;
 }
+
+.titolo {
+  height: 716px;
+  /* background-color: red; */
+  background-image: url("../img/jumbotron.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom right;
+  /* position: relative; */
+}
+
+
+h1 {
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.titolo p {
+  padding-top: 50px;
+  line-height: 30px;
+}
+
+.button-info {
+  padding-top: 50px;
+}
+
+.btn-trd {
+  padding: 20px 30px;
+}
+
+.started {
+  font-size: 10px;
+}
+
+/* /seconda nav */
