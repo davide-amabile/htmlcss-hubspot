@@ -156,11 +156,23 @@ h1 {
 
 .img-square {
   line-height: 30px;
+  text-align: center;
 }
 /* /prima sezione corpo centrale  */
 /* seconda sezione corpo centrale */
 
 .img-book {
   background-color: 	#ffffff;
-  height:150px;
+  padding: 30px 150px;
+  border-radius: 5px;
 }
+
+.learn-more {
+  width: 30%;
+  /* background-color: red; */
+}
+ #book {
+   width: 100px;
+   height: 100px;
+   display: block;
+ }
