@@ -132,3 +132,27 @@ h1 {
 }
 
 /* /seconda nav */
+
+/* prima sezione corpo centrale */
+
+.first-body {
+  background-color: #f4f9fd;
+
+}
+
+/* prima sezione corpo centrale */
+
+.img-square .square, h2, p {
+  text-align: center;
+  padding-top: 30px;
+}
+
+
+
+.img-square h2 {
+  font-size: 35px;
+}
+
+.img-square {
+  line-height: 30px;
+}
