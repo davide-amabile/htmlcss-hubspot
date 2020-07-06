@@ -307,9 +307,12 @@ margin: 50px 10px;
 }
 
 /*griglia icone  */
+/* prima riga */
 .first-row ul {
   width: 25%;
-  float: left;}
+  float: left;
+  border-bottom: 1px 	solid #ffffff;
+}
 
 .first-row li {
   list-style: none;
@@ -331,4 +334,14 @@ margin: 50px 10px;
 
 .first-row .text {
   font-size: 10px;
+}
+
+/* bordi box destra */
+.first-row .first-box {
+  border-right: 1px solid #ffffff;
+}
+
+.first-row .third-box {
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
 }
