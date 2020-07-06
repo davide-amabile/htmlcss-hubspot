@@ -169,10 +169,24 @@ h1 {
 
 .learn-more {
   width: 30%;
-  /* background-color: red; */
+  float: left;
 }
  #book {
    width: 100px;
    height: 100px;
    display: block;
  }
+
+ .free-crm {
+   float: left;
+   width: 70%;
+}
+
+.free-crm h3, p, h4 {
+  padding-top: 20px;
+}
+
+.free-crm p {
+  text-align: left;
+  line-height: 25px;
+}
