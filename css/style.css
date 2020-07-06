@@ -133,10 +133,11 @@ h1 {
 
 /* /seconda nav */
 
-/* prima sezione corpo centrale */
+/* corpo centrale */
 
 .first-body {
   background-color: #f4f9fd;
+  height: 1000px
 
 }
 
@@ -155,4 +156,11 @@ h1 {
 
 .img-square {
   line-height: 30px;
+}
+/* /prima sezione corpo centrale  */
+/* seconda sezione corpo centrale */
+
+.img-book {
+  background-color: 	#ffffff;
+  height:150px;
 }
