@@ -291,12 +291,11 @@ margin: 50px 10px;
 .second-section {
   height: 600px;
   background-color: #00B7AC;
-}
-
-.blue-section {
   text-align: center;
   color: 	#ffffff;
 }
+
+
 /* titolo sezione */
 .blue-section h2 {
   font-size: 35px;
@@ -305,4 +304,31 @@ margin: 50px 10px;
 /* paragrafo sezione */
 .blue-section p {
   padding: 40px 0;
+}
+
+/*griglia icone  */
+.first-row ul {
+  width: 25%;
+  float: left;}
+
+.first-row li {
+  list-style: none;
+  padding: 20px 0;
+}
+
+.first-row .icon {
+  font-size: 30px;
+}
+
+.first-row .number {
+  font-size: 45px;
+}
+
+.first-row .plus {
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+.first-row .text {
+  font-size: 10px;
 }
