@@ -471,3 +471,37 @@ margin: 50px 10px;
   padding-top: 50px;
 }
 /* /corpo centrale */
+
+footer {
+  background-color: #32495b;
+  height: 800px;
+  margin-top: 50px;
+}
+
+.foot-box {
+  color: #ffffff;
+  text-transform: capitalize;
+  padding-top: 30px;
+  width: 25%;
+  float: left;
+}
+
+.foot-box h4 {
+  padding-bottom: 25px;
+}
+
+.foot-box li {
+  padding-top: 20px;
+  list-style: none;
+}
+
+.foot-box .last-btn {
+  background-color: #ffffff;
+  color: #32495b;
+  text-transform: capitalize;
+}
+
+.foot-box .icon-list li {
+  display: inline-block;
+  padding: 15px 8px 0 8px;
+}
