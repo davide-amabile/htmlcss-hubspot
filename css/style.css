@@ -385,3 +385,27 @@ margin: 50px 10px;
   border-right: 1px solid #ffffff;
 }
 /*/ quarta sezione corpo centrale */
+/* quinta sezione corpo centrale */
+
+
+.line .number {
+  /* background-color: red; */
+  width: 30%;
+  height: 100px;
+  float: left;
+  position: relative;
+}
+
+.number span {
+  float: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+}
+
+.brands li {
+  display: inline-block;
+  list-style: none;
+}
