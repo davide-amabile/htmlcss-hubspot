@@ -522,6 +522,8 @@ footer {
   padding: 100px 15px 20px 15px;
 }
 
-.middle-foot hr{
+.last-nav {
   color: #ffffff;
+  text-transform: capitalize;
+  background-color: #32495b;
 }
