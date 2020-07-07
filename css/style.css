@@ -440,14 +440,17 @@ margin: 50px 10px;
 
 .ultima-riga .last-title {
   background-color: blue;
-  width: 50%x;
+  width: 50%;
   height: 250px;
   float: left;
 }
 
 .ultima-riga .last-image {
-  background-color: yellow;
   width: 50%;
-  height:250;
+  height:250px;
   float: left;
+  background-image: url("../img/woman.webp");
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: center;
 }
