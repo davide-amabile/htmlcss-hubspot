@@ -527,3 +527,28 @@ footer {
   text-transform: capitalize;
   background-color: #32495b;
 }
+
+.last-logo {
+  width: 50%;
+  float:left;
+}
+
+.last-logo img {
+  padding-top: 40px;
+}
+
+.last-logo p {
+  text-align: left;
+}
+
+.privacy {
+  float: left;
+  text-align: right;
+  width: 50%;
+}
+
+.privacy li {
+  display:inline-block;
+  list-style: none;
+  padding: 40px 25px;
+}
