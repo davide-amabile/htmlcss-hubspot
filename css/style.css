@@ -408,4 +408,11 @@ margin: 50px 10px;
 .brands li {
   display: inline-block;
   list-style: none;
+  padding: 0 30px;
+  line-height: 100px;
+}
+
+.brands li img {
+  width: 160px;
+  height: 15px;
 }
