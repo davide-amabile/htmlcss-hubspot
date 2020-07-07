@@ -30,9 +30,14 @@ body {
   padding: 0 25px;
 }
 
+a {
+  color: #000000;
+}
+
 .head a {
   text-decoration: none;
   text-transform: capitalize;
+
 }
 
 .list-bottom {
