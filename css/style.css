@@ -474,12 +474,11 @@ margin: 50px 10px;
 
 footer {
   background-color: #32495b;
-  /* height: 800px; */
+  height: 800px;
   margin-top: 50px;
 }
 
 .foot-box {
-  height: 1000px;
   color: #ffffff;
   text-transform: capitalize;
   padding-top: 30px;
@@ -511,14 +510,18 @@ footer {
   color: #ffffff;
   text-transform: capitalize;
   text-align: center;
+  background-color: #32495b;
 }
 
 .middle-foot .languages-list ul {
-  padding-top: 50px;
 }
 
 .middle-foot li {
   display: inline-block;
   list-style: none;
-  padding: 0 15px;
+  padding: 100px 15px 20px 15px;
+}
+
+.middle-foot hr{
+  color: #ffffff;
 }
