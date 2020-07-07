@@ -435,3 +435,19 @@ margin: 50px 10px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
+/* /quinta sezione corpo centrale */
+/* sesta sezione corpo centrale */
+
+.ultima-riga .last-title {
+  background-color: blue;
+  width: 50%x;
+  height: 250px;
+  float: left;
+}
+
+.ultima-riga .last-image {
+  background-color: yellow;
+  width: 50%;
+  height:250;
+  float: left;
+}
