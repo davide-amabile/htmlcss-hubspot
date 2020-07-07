@@ -439,18 +439,35 @@ margin: 50px 10px;
 /* sesta sezione corpo centrale */
 
 .ultima-riga .last-title {
-  background-color: blue;
   width: 50%;
-  height: 250px;
   float: left;
 }
 
 .ultima-riga .last-image {
   width: 50%;
-  height:250px;
+  height:400px;
   float: left;
   background-image: url("../img/woman.webp");
   background-repeat: no-repeat;
-  background-size: 200px;
+  background-size: 300px;
   background-position: center;
+  margin-top: 30px;
 }
+
+.last-title h2 {
+  text-align: left;
+  padding-top: 50px;
+}
+
+.last-title .big-p {
+  text-align: left;
+  line-height: 30px;
+  padding: 50px 0;
+}
+
+.last-title .small-p {
+  text-align: left;
+  font-size: 10px;
+  padding-top: 50px;
+}
+/* /corpo centrale */
