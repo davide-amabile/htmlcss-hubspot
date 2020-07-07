@@ -406,15 +406,15 @@ margin: 50px 10px;
   width: 30%;
   height: 100px;
   float: left;
-  position: relative;
+  /* position: relative; */
 }
 
 .number span {
   float: left;
-  position: absolute;
+  /* position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate( -50%, -50%); */
   font-size: 50px;
 }
 
