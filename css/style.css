@@ -389,7 +389,6 @@ margin: 50px 10px;
 
 
 .line .number {
-  /* background-color: red; */
   width: 30%;
   height: 100px;
   float: left;
@@ -408,11 +407,31 @@ margin: 50px 10px;
 .brands li {
   display: inline-block;
   list-style: none;
-  padding: 0 30px;
+  padding: 0 40px;
   line-height: 100px;
 }
 
 .brands li img {
-  width: 160px;
+  width: 125px;
   height: 15px;
+}
+
+#sabeaus {
+  height: 25px;
+}
+/* seconda riga */
+
+.line .paragraph {
+  width: 30%;
+  height: 100px;
+  float: left;
+  position: relative;
+  line-height: 30px;
+}
+.line .paragraph p {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
