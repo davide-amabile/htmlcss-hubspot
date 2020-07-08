@@ -409,6 +409,9 @@ margin: 50px 10px;
 
 .number span {
   font-size: 50px;
+  /* position: absolute;
+  top: 50%;
+  transform:translate(-50%); */
 }
 /*/ quarta sezione corpo centrale */
 /* quinta sezione corpo centrale */
