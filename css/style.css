@@ -398,25 +398,30 @@ margin: 50px 10px;
   border-left: 1px solid #ffffff;
   border-right: 1px solid #ffffff;
 }
-/*/ quarta sezione corpo centrale */
-/* quinta sezione corpo centrale */
 
 
 .line .number {
   width: 30%;
   height: 100px;
   float: left;
-  /* position: relative; */
+  position: relative;
 }
 
 .number span {
-  float: left;
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate( -50%, -50%); */
   font-size: 50px;
 }
+/*/ quarta sezione corpo centrale */
+/* quinta sezione corpo centrale */
+
+.line .paragraph span {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+}
+
 
 .brands li {
   display: inline-block;
@@ -448,6 +453,11 @@ margin: 50px 10px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.line .brands .higer {
+  height: 50px;
+  vertical-align: middle;
 }
 /* /quinta sezione corpo centrale */
 /* sesta sezione corpo centrale */
