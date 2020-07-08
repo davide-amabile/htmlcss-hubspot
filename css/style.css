@@ -43,7 +43,7 @@ a {
   color: #000000;
 }
 
-.head a {
+ a {
   text-decoration: none;
   text-transform: capitalize;
 
