@@ -338,11 +338,16 @@ margin: 50px 10px;
   height: 60px;
 }
 
-.first-row .icon {
+
+.first-box li .accademy {
+  height: 100px;
+}
+
+.bottom-row .icon {
   font-size: 30px;
 }
 
-.first-row .number {
+.bottom-row  .number {
   font-size: 45px;
 }
 
@@ -382,11 +387,15 @@ margin: 50px 10px;
   height: 60px;
 }
 
+.bottom-row .icon .marketing {
+  width: 150px;
+}
+
 .bottom-row .icon {
   font-size: 30px;
 }
 
-.bottom-row  .number {
+.first-row  .number {
   font-size: 45px;
 }
 
@@ -421,7 +430,7 @@ margin: 50px 10px;
   font-size: 50px;
   /* position: absolute;
   top: 50%;
-  transform:translate(-50%); */
+  transform:translate(-50%);  */
 }
 /*/ quarta sezione corpo centrale */
 /* quinta sezione corpo centrale */
